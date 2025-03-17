@@ -5909,7 +5909,7 @@
     --bs-border-radius-xl: 1rem;
     --bs-border-radius-2xl: 2rem;
     --bs-border-radius-pill: 50rem;
-    --bs-link-color: #0066b3;
+    --bs-link-color: #5a2873;
     --bs-link-hover-color: rgb(0, 81.6, 143.2);
     --bs-code-color: #d63384;
     --bs-highlight-bg: rgb(255, 242.6, 205.4)
@@ -6968,8 +6968,8 @@ a>.econ-container code {
 .econ-container .econ-config-email-module .checkbox input:checked,
 .econ-container .econ-wysiwyg-editor .checkbox input:checked,
 .econ-container .form-check-input:checked {
-    background-color: #0066b3;
-    border-color: #0066b3
+    background-color: #5a2873;
+    border-color: #5a2873
 }
 
 .econ-container .dac-modul .xs2a-checkbox input:checked[type=checkbox],
@@ -6990,8 +6990,8 @@ a>.econ-container code {
 .econ-container .econ-config-email-module .checkbox input[type=checkbox]:indeterminate,
 .econ-container .econ-wysiwyg-editor .checkbox input[type=checkbox]:indeterminate,
 .econ-container .form-check-input[type=checkbox]:indeterminate {
-    background-color: #0066b3;
-    border-color: #0066b3;
+    background-color: #5a2873;
+    border-color: #5a2873;
     --bs-form-check-bg-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20'%3E%3Cpath fill='none' stroke='%23FFF' stroke-linecap='round' stroke-linejoin='round' stroke-width='3' d='M6 10h8'/%3E%3C/svg%3E")
 }
 
@@ -7154,7 +7154,7 @@ a>.econ-container code {
     margin-top: -.45rem;
     -webkit-appearance: none;
     appearance: none;
-    background-color: #0066b3;
+    background-color: #5a2873;
     border: 0;
     border-radius: 1rem;
     -webkit-transition: background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
@@ -7187,7 +7187,7 @@ a>.econ-container code {
     height: 1.4rem;
     -moz-appearance: none;
     appearance: none;
-    background-color: #0066b3;
+    background-color: #5a2873;
     border: 0;
     border-radius: 1rem;
     -moz-transition: background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
@@ -8044,8 +8044,8 @@ fieldset:disabled .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-p
 
 .econ-container .btn-primary {
     --bs-btn-color: #fff;
-    --bs-btn-bg: #0066b3;
-    --bs-btn-border-color: #0066b3;
+    --bs-btn-bg: #5a2873;
+    --bs-btn-border-color: #5a2873;
     --bs-btn-hover-color: #fff;
     --bs-btn-hover-bg: rgb(0, 86.7, 152.15);
     --bs-btn-hover-border-color: rgb(0, 81.6, 143.2);
@@ -8055,8 +8055,8 @@ fieldset:disabled .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-p
     --bs-btn-active-border-color: rgb(0, 76.5, 134.25);
     --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
     --bs-btn-disabled-color: #fff;
-    --bs-btn-disabled-bg: #0066b3;
-    --bs-btn-disabled-border-color: #0066b3
+    --bs-btn-disabled-bg: #5a2873;
+    --bs-btn-disabled-border-color: #5a2873
 }
 
 .econ-container .btn-secondary {
@@ -8179,19 +8179,19 @@ fieldset:disabled .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-p
 }
 
 .econ-container .btn-outline-primary {
-    --bs-btn-color: #0066b3;
-    --bs-btn-border-color: #0066b3;
+    --bs-btn-color: #5a2873;
+    --bs-btn-border-color: #5a2873;
     --bs-btn-hover-color: #fff;
-    --bs-btn-hover-bg: #0066b3;
-    --bs-btn-hover-border-color: #0066b3;
+    --bs-btn-hover-bg: #5a2873;
+    --bs-btn-hover-border-color: #5a2873;
     --bs-btn-focus-shadow-rgb: 0, 102, 179;
     --bs-btn-active-color: #fff;
-    --bs-btn-active-bg: #0066b3;
-    --bs-btn-active-border-color: #0066b3;
+    --bs-btn-active-bg: #5a2873;
+    --bs-btn-active-border-color: #5a2873;
     --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
-    --bs-btn-disabled-color: #0066b3;
+    --bs-btn-disabled-color: #5a2873;
     --bs-btn-disabled-bg: transparent;
-    --bs-btn-disabled-border-color: #0066b3;
+    --bs-btn-disabled-border-color: #5a2873;
     --bs-gradient: none
 }
 
@@ -9252,8 +9252,8 @@ fieldset:disabled .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-p
     --bs-pagination-focus-bg: var(--bs-secondary-bg);
     --bs-pagination-focus-box-shadow: 0 0 0 0.25rem rgba(0, 102, 179, 0.25);
     --bs-pagination-active-color: #fff;
-    --bs-pagination-active-bg: #0066b3;
-    --bs-pagination-active-border-color: #0066b3;
+    --bs-pagination-active-bg: #5a2873;
+    --bs-pagination-active-border-color: #5a2873;
     --bs-pagination-disabled-color: var(--bs-secondary-color);
     --bs-pagination-disabled-bg: var(--bs-secondary-bg);
     --bs-pagination-disabled-border-color: var(--bs-border-color);
@@ -9353,7 +9353,7 @@ fieldset:disabled .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-p
     --bs-progress-border-radius: var(--bs-border-radius);
     --bs-progress-box-shadow: var(--bs-box-shadow-inset);
     --bs-progress-bar-color: #fff;
-    --bs-progress-bar-bg: #0066b3;
+    --bs-progress-bar-bg: #5a2873;
     --bs-progress-bar-transition: width 0.6s ease;
     display: flex;
     height: var(--bs-progress-height);
@@ -9452,7 +9452,7 @@ fieldset:disabled .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-p
     --bs-dropdown-link-hover-color: var(--bs-body-color);
     --bs-dropdown-link-hover-bg: var(--bs-tertiary-bg);
     --bs-dropdown-link-active-color: #fff;
-    --bs-dropdown-link-active-bg: #0066b3;
+    --bs-dropdown-link-active-bg: #5a2873;
     --bs-dropdown-link-disabled-color: var(--bs-tertiary-color);
     --bs-dropdown-item-padding-x: 1rem;
     --bs-dropdown-item-padding-y: 0.25rem;
@@ -9754,7 +9754,7 @@ fieldset:disabled .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-p
     --bs-dropdown-divider-bg: var(--bs-border-color-translucent);
     --bs-dropdown-link-hover-bg: hsla(0, 0%, 100%, 0.15);
     --bs-dropdown-link-active-color: #fff;
-    --bs-dropdown-link-active-bg: #0066b3;
+    --bs-dropdown-link-active-bg: #5a2873;
     --bs-dropdown-link-disabled-color: #adb5bd;
     --bs-dropdown-header-color: #adb5bd
 }
@@ -19678,7 +19678,7 @@ fieldset:disabled .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-p
 
 .econ-progress.okp-style .econ-button.btn-primary {
     background-color: #fff;
-    color: #0066b3
+    color: #5a2873
 }
 
 .econ-progress.okp-style .econ-button.btn-secondary {
@@ -19728,7 +19728,7 @@ fieldset:disabled .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-p
 
 .econ-progress.okp-style li.active .step-indicator,
 .econ-progress.okp-style li.inactive.current .step-indicator {
-    background-color: #0066b3;
+    background-color: #5a2873;
     color: #fff
 }
 
@@ -19797,7 +19797,7 @@ fieldset:disabled .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-p
     position: absolute;
     top: 0;
     left: 0;
-    background-color: #0066b3;
+    background-color: #5a2873;
     height: 100%
 }
 
@@ -19919,11 +19919,11 @@ fieldset:disabled .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-p
 .econ-container .content-header .econ-breadcrumb-wrapper .econ-breadcrumb .breadcrumb-item.active a,
 .econ-container .content-header .econ-breadcrumb-wrapper .econ-breadcrumb .breadcrumb-item.active a .econ-breadcrumb-counter,
 .econ-container .content-header .econ-breadcrumb-wrapper .econ-breadcrumb .breadcrumb-item.active a .econ-breadcrumb-label {
-    color: #0066b3
+    color: #5a2873
 }
 
 .econ-container .content-header .econ-breadcrumb-wrapper .econ-breadcrumb .breadcrumb-item.active:after {
-    background-color: #0066b3
+    background-color: #5a2873
 }
 
 .econ-container .content-header .econ-breadcrumb-wrapper .econ-breadcrumb .breadcrumb-item:after {
@@ -19940,8 +19940,8 @@ fieldset:disabled .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-p
 
 .econ-container .econ-button.btn-primary {
     --bs-btn-color: #fff;
-    --bs-btn-bg: #0066b3;
-    --bs-btn-border-color: #0066b3;
+    --bs-btn-bg: #5a2873;
+    --bs-btn-border-color: #5a2873;
     --bs-btn-hover-color: #fff;
     --bs-btn-hover-bg: rgb(0, 86.7, 152.15);
     --bs-btn-hover-border-color: rgb(0, 81.6, 143.2);
@@ -19951,8 +19951,8 @@ fieldset:disabled .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-p
     --bs-btn-active-border-color: rgb(25.5, 117.3, 186.6);
     --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
     --bs-btn-disabled-color: #fff;
-    --bs-btn-disabled-bg: #0066b3;
-    --bs-btn-disabled-border-color: #0066b3
+    --bs-btn-disabled-bg: #5a2873;
+    --bs-btn-disabled-border-color: #5a2873
 }
 
 .econ-container .econ-button.btn-secondary {
@@ -20536,7 +20536,7 @@ fieldset:disabled .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-p
 
 .econ-container .datepicker-cell.selected,
 .econ-container .datepicker-cell.selected:hover {
-    background-color: #0066b3;
+    background-color: #5a2873;
     color: #fff;
     font-weight: 600
 }
@@ -20635,7 +20635,7 @@ fieldset:disabled .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-p
 
 .econ-fragment.econ-fragment-date .datepicker.datepicker-dropdown .datepicker-picker .datepicker-header .datepicker-controls>* {
     background-color: #e5eff7;
-    color: #0066b3
+    color: #5a2873
 }
 
 .econ-fragment.econ-fragment-date .datepicker.datepicker-dropdown .datepicker-picker .datepicker-header .datepicker-controls .view-switch {
@@ -20655,11 +20655,11 @@ fieldset:disabled .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-p
     background-color: #ccc;
     border: 1px solid #fff;
     border-radius: 0;
-    color: #0066b3
+    color: #5a2873
 }
 
 .econ-fragment.econ-fragment-date .datepicker.datepicker-dropdown .datepicker-picker .datepicker-main .datepicker-view .days .datepicker-grid .datepicker-cell.selected {
-    background-color: #0066b3;
+    background-color: #5a2873;
     color: #fff
 }
 
@@ -20716,9 +20716,9 @@ fieldset:disabled .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-p
 }
 
 .econ-container .econ-fragment-radio-group .okp-card-row .okp-cards .econ-radio--active {
-    background-color: #0066b3;
+    background-color: #5a2873;
     color: #fff;
-    border: 1px solid #0066b3
+    border: 1px solid #5a2873
 }
 
 .econ-container .econ-fragment-radio-group .okp-card-row .okp-cards [class^=col-]:first-of-type {
@@ -20748,7 +20748,7 @@ fieldset:disabled .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-p
     height: 100%;
     min-height: 100px;
     background-color: #f8f9fa;
-    border: 1px solid #0066b3;
+    border: 1px solid #5a2873;
     border-radius: 4px
 }
 
@@ -20812,9 +20812,9 @@ fieldset:disabled .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-p
 }
 
 .econ-container .econ-fragment-radio-group .econ-radio-icons .econ-input-group .econ-form-control-outer .econ-radio .econ-radio--active label.econ-radio-label {
-    background-color: #0066b3;
+    background-color: #5a2873;
     color: #fff;
-    border: 1px solid #0066b3
+    border: 1px solid #5a2873
 }
 
 .econ-container .dac-modul .xs2a-text .form-select:focus input .is-valid:focus,
@@ -20828,13 +20828,13 @@ fieldset:disabled .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-p
 .econ-container .form-select:focus .econ-config-email-module .form-group input .is-valid:focus,
 .econ-container .form-select:focus .econ-wysiwyg-editor .form-group input .is-valid:focus,
 .econ-container .form-select:focus .form-control .is-valid:focus {
-    border-color: #0066b3;
+    border-color: #5a2873;
     border-width: 2px
 }
 
 .econ-container .form-select:focus {
     box-shadow: none;
-    border-color: #0066b3
+    border-color: #5a2873
 }
 
 .econ-container .dac-modul .xs2a-text input,
@@ -20867,7 +20867,7 @@ fieldset:disabled .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-p
 .econ-container .econ-wysiwyg-editor .form-group input.is-valid:focus,
 .econ-container .form-control.is-valid:focus,
 .econ-container .form-select.is-valid:focus {
-    border-color: #0066b3
+    border-color: #5a2873
 }
 
 .econ-container label.econ-control-label {
@@ -20904,8 +20904,8 @@ fieldset:disabled .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-p
 .econ-container .econ-fragment-checkbox .econ-wysiwyg-editor .checkbox input[type=checkbox][checked=checked],
 .econ-container .econ-fragment-checkbox .form-check-input[type=checkbox][checked=checked],
 .econ-container .econ-wysiwyg-editor .checkbox .econ-fragment-checkbox input[type=checkbox][checked=checked] {
-    background-color: #0066b3;
-    border-color: #0066b3
+    background-color: #5a2873;
+    border-color: #5a2873
 }
 
 .econ-container .tooltip-inline .econ-section-content .econ-form-group .econ-input-group .econ-form-control-outer>.row {
@@ -21043,7 +21043,7 @@ fieldset:disabled .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-p
 .was-validated .econ-container .econ-config-email-module .checkbox input:valid:checked,
 .was-validated .econ-container .econ-wysiwyg-editor .checkbox input:valid:checked,
 .was-validated .econ-container .form-check-input:valid:checked {
-    background-color: #0066b3
+    background-color: #5a2873
 }
 
 .econ-container .dac-modul .xs2a-checkbox input.is-valid~.form-check-label,
@@ -21129,7 +21129,7 @@ fieldset:disabled .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-p
 }
 
 .econ-container .dac-modul .xs2a-tabs li.xs2a-selected {
-    border-color: #0066b3
+    border-color: #5a2873
 }
 
 .econ-container .dac-modul .xs2a-tabs a {
@@ -21198,7 +21198,7 @@ fieldset:disabled .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-p
 }
 
 .econ-container .dac-modul .xs2a-checkbox:hover input {
-    border-color: #0066b3
+    border-color: #5a2873
 }
 
 .econ-container .dac-modul .xs2a-submit-line {
@@ -21231,8 +21231,8 @@ fieldset:disabled .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-p
 
 .econ-container .dac-modul .xs2a-submit-line .xs2a-submit {
     --bs-btn-color: #fff;
-    --bs-btn-bg: #0066b3;
-    --bs-btn-border-color: #0066b3;
+    --bs-btn-bg: #5a2873;
+    --bs-btn-border-color: #5a2873;
     --bs-btn-hover-color: #fff;
     --bs-btn-hover-bg: rgb(0, 86.7, 152.15);
     --bs-btn-hover-border-color: rgb(0, 81.6, 143.2);
@@ -21242,8 +21242,8 @@ fieldset:disabled .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-p
     --bs-btn-active-border-color: rgb(25.5, 117.3, 186.6);
     --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
     --bs-btn-disabled-color: #fff;
-    --bs-btn-disabled-bg: #0066b3;
-    --bs-btn-disabled-border-color: #0066b3;
+    --bs-btn-disabled-bg: #5a2873;
+    --bs-btn-disabled-border-color: #5a2873;
     display: block
 }
 
@@ -21415,8 +21415,8 @@ fieldset:disabled .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-p
 
 .econ-container .econ-config-email-module .note-modal-footer .btn-primary {
     --bs-btn-color: #fff;
-    --bs-btn-bg: #0066b3;
-    --bs-btn-border-color: #0066b3;
+    --bs-btn-bg: #5a2873;
+    --bs-btn-border-color: #5a2873;
     --bs-btn-hover-color: #fff;
     --bs-btn-hover-bg: rgb(0, 86.7, 152.15);
     --bs-btn-hover-border-color: rgb(0, 81.6, 143.2);
@@ -21426,8 +21426,8 @@ fieldset:disabled .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-p
     --bs-btn-active-border-color: rgb(25.5, 117.3, 186.6);
     --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
     --bs-btn-disabled-color: #fff;
-    --bs-btn-disabled-bg: #0066b3;
-    --bs-btn-disabled-border-color: #0066b3
+    --bs-btn-disabled-bg: #5a2873;
+    --bs-btn-disabled-border-color: #5a2873
 }
 
 .econ-container .econ-config-email-module .form-group input.xs2a-invalid {
@@ -21834,7 +21834,7 @@ fieldset:disabled .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-p
 
 .econ-container .econ-file-overview-manager .mod-doctable table .table-cell-upload label>span:before {
     content: "";
-    color: #0066b3;
+    color: #5a2873;
     font-size: 1.2rem
 }
 
@@ -22093,7 +22093,7 @@ fieldset:disabled .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-p
 
 .econ-container .econ-extensions-file-status-manager .mod-doctable table .table-cell-upload label>span:before {
     content: "";
-    color: #0066b3;
+    color: #5a2873;
     font-size: 1.2rem
 }
 
@@ -22276,7 +22276,7 @@ fieldset:disabled .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-p
 }
 
 .econ-container .econ-radio-icons .radio label:hover {
-    border-color: #0066b3;
+    border-color: #5a2873;
     background: #e9ecef
 }
 
@@ -22302,7 +22302,7 @@ fieldset:disabled .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-p
 }
 
 .econ-container .econ-radio-icons .radio.econ-radio-active label {
-    border-color: #0066b3;
+    border-color: #5a2873;
     background: #e9ecef
 }
 
@@ -22386,7 +22386,7 @@ fieldset:disabled .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-p
     appearance: none;
     width: 1.4rem;
     height: 1.4rem;
-    background-color: #0066b3;
+    background-color: #5a2873;
     border-radius: 50%;
     border: none;
     -webkit-transition: .2s ease-in-out;
@@ -22400,7 +22400,7 @@ fieldset:disabled .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-p
 .econ-container .econ-slider-range input[type=range]::-moz-range-thumb {
     width: 1.4rem;
     height: 1.4rem;
-    background-color: #0066b3;
+    background-color: #5a2873;
     border-radius: 50%;
     border: none;
     -moz-transition: .2s ease-in-out;
@@ -22444,7 +22444,7 @@ fieldset:disabled .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-p
     font-weight: bolder;
     padding-bottom: 1rem;
     cursor: pointer;
-    color: #0066b3
+    color: #5a2873
 }
 
 .econ-container .uploadpanel-title:hover {
@@ -22625,8 +22625,8 @@ fieldset:disabled .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-p
 
 .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-primary {
     --bs-btn-color: #fff;
-    --bs-btn-bg: #0066b3;
-    --bs-btn-border-color: #0066b3;
+    --bs-btn-bg: #5a2873;
+    --bs-btn-border-color: #5a2873;
     --bs-btn-hover-color: #fff;
     --bs-btn-hover-bg: rgb(0, 86.7, 152.15);
     --bs-btn-hover-border-color: rgb(0, 81.6, 143.2);
@@ -22636,8 +22636,8 @@ fieldset:disabled .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-p
     --bs-btn-active-border-color: rgb(25.5, 117.3, 186.6);
     --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
     --bs-btn-disabled-color: #fff;
-    --bs-btn-disabled-bg: #0066b3;
-    --bs-btn-disabled-border-color: #0066b3
+    --bs-btn-disabled-bg: #5a2873;
+    --bs-btn-disabled-border-color: #5a2873
 }
 
 .econ-container .econ-wysiwyg-editor .form-group input.xs2a-invalid {
@@ -22764,7 +22764,7 @@ body {
 }
 
 .econ-container .econ-ep-conditions .c-cond-value.highlight {
-    color: #0066b3
+    color: #5a2873
 }
 
 .econ-container .econ-tooltip-inner.alert.alert-danger .feedback-hint,
