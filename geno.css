@@ -8061,8 +8061,8 @@ fieldset:disabled .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-p
 
 .econ-container .btn-secondary {
     --bs-btn-color: #000;
-    --bs-btn-bg: #f60;
-    --bs-btn-border-color: #f60;
+    --bs-btn-bg: #d83d87;
+    --bs-btn-border-color: #d83d87;
     --bs-btn-hover-color: #000;
     --bs-btn-hover-bg: rgb(255, 124.95, 38.25);
     --bs-btn-hover-border-color: rgb(255, 117.3, 25.5);
@@ -8072,8 +8072,8 @@ fieldset:disabled .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-p
     --bs-btn-active-border-color: rgb(255, 117.3, 25.5);
     --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
     --bs-btn-disabled-color: #000;
-    --bs-btn-disabled-bg: #f60;
-    --bs-btn-disabled-border-color: #f60
+    --bs-btn-disabled-bg: #d83d87;
+    --bs-btn-disabled-border-color: #d83d87
 }
 
 .econ-container .btn-success {
@@ -8196,19 +8196,19 @@ fieldset:disabled .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-p
 }
 
 .econ-container .btn-outline-secondary {
-    --bs-btn-color: #f60;
-    --bs-btn-border-color: #f60;
+    --bs-btn-color: #d83d87;
+    --bs-btn-border-color: #d83d87;
     --bs-btn-hover-color: #000;
-    --bs-btn-hover-bg: #f60;
-    --bs-btn-hover-border-color: #f60;
+    --bs-btn-hover-bg: #d83d87;
+    --bs-btn-hover-border-color: #d83d87;
     --bs-btn-focus-shadow-rgb: 255, 102, 0;
     --bs-btn-active-color: #000;
-    --bs-btn-active-bg: #f60;
-    --bs-btn-active-border-color: #f60;
+    --bs-btn-active-bg: #d83d87;
+    --bs-btn-active-border-color: #d83d87;
     --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
-    --bs-btn-disabled-color: #f60;
+    --bs-btn-disabled-color: #d83d87;
     --bs-btn-disabled-bg: transparent;
-    --bs-btn-disabled-border-color: #f60;
+    --bs-btn-disabled-border-color: #d83d87;
     --bs-gradient: none
 }
 
@@ -19893,11 +19893,11 @@ fieldset:disabled .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-p
 .econ-container .content-header .econ-breadcrumb-wrapper .econ-breadcrumb .breadcrumb-item.current a,
 .econ-container .content-header .econ-breadcrumb-wrapper .econ-breadcrumb .breadcrumb-item.current a .econ-breadcrumb-counter,
 .econ-container .content-header .econ-breadcrumb-wrapper .econ-breadcrumb .breadcrumb-item.current a .econ-breadcrumb-label {
-    color: #f60
+    color: #d83d87
 }
 
 .econ-container .content-header .econ-breadcrumb-wrapper .econ-breadcrumb .breadcrumb-item.current:after {
-    background-color: #f60
+    background-color: #d83d87
 }
 
 .econ-container .content-header .econ-breadcrumb-wrapper .econ-breadcrumb .breadcrumb-item.inactive a {
@@ -19957,8 +19957,8 @@ fieldset:disabled .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-p
 
 .econ-container .econ-button.btn-secondary {
     --bs-btn-color: #343a40;
-    --bs-btn-bg: #f60;
-    --bs-btn-border-color: #f60;
+    --bs-btn-bg: #d83d87;
+    --bs-btn-border-color: #d83d87;
     --bs-btn-hover-color: #000;
     --bs-btn-hover-bg: rgb(255, 124.95, 38.25);
     --bs-btn-hover-border-color: rgb(255, 117.3, 25.5);
@@ -19968,8 +19968,8 @@ fieldset:disabled .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-p
     --bs-btn-active-border-color: rgb(255, 117.3, 25.5);
     --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
     --bs-btn-disabled-color: #000;
-    --bs-btn-disabled-bg: #f60;
-    --bs-btn-disabled-border-color: #f60
+    --bs-btn-disabled-bg: #d83d87;
+    --bs-btn-disabled-border-color: #d83d87
 }
 
 @media(min-width:992px) {
@@ -20582,7 +20582,7 @@ fieldset:disabled .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-p
 
 .econ-container .datepicker-cell.range-end:not(.selected),
 .econ-container .datepicker-cell.range-start:not(.selected) {
-    background-color: #f60;
+    background-color: #d83d87;
     color: #fff
 }
 
@@ -20639,7 +20639,7 @@ fieldset:disabled .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-p
 }
 
 .econ-fragment.econ-fragment-date .datepicker.datepicker-dropdown .datepicker-picker .datepicker-header .datepicker-controls .view-switch {
-    color: #f60
+    color: #d83d87
 }
 
 .econ-fragment.econ-fragment-date .datepicker.datepicker-dropdown .datepicker-picker .datepicker-main {
@@ -21249,8 +21249,8 @@ fieldset:disabled .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-p
 
 .econ-container .dac-modul .xs2a-submit-line .xs2a-back {
     --bs-btn-color: #343a40;
-    --bs-btn-bg: #f60;
-    --bs-btn-border-color: #f60;
+    --bs-btn-bg: #d83d87;
+    --bs-btn-border-color: #d83d87;
     --bs-btn-hover-color: #000;
     --bs-btn-hover-bg: rgb(255, 124.95, 38.25);
     --bs-btn-hover-border-color: rgb(255, 117.3, 25.5);
@@ -21260,8 +21260,8 @@ fieldset:disabled .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-p
     --bs-btn-active-border-color: rgb(255, 117.3, 25.5);
     --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
     --bs-btn-disabled-color: #000;
-    --bs-btn-disabled-bg: #f60;
-    --bs-btn-disabled-border-color: #f60;
+    --bs-btn-disabled-bg: #d83d87;
+    --bs-btn-disabled-border-color: #d83d87;
     display: block
 }
 
@@ -22744,7 +22744,7 @@ body {
 
 .econ-container .h1,
 .econ-container h1 {
-    color: #f60;
+    color: #d83d87;
     font-weight: 400
 }
 
