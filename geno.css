@@ -5871,7 +5871,7 @@
     --bs-gray-800: #343a40;
     --bs-gray-900: #212529;
     --bs-primary: #5a2873;
-    --bs-secondary: #f60;
+    --bs-secondary: #d83d87;
     --bs-success: #198754;
     --bs-info: #0dcaf0;
     --bs-warning: #ffc107;
@@ -5890,7 +5890,7 @@
     --bs-black-rgb: 0, 0, 0;
     --bs-body-color-rgb: 0, 0, 0;
     --bs-body-bg-rgb: 255, 255, 255;
-    --bs-font-sans-serif: "GenosGFG", "Open Sans", Arial, sans-serif;
+    --bs-font-sans-serif: myriad-pro, Arial, sans-serif;
     --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
     --bs-gradient: linear-gradient(180deg, hsla(0, 0%, 100%, 0.15), hsla(0, 0%, 100%, 0));
     --bs-body-font-family: var(--bs-font-sans-serif);
@@ -19566,7 +19566,7 @@ fieldset:disabled .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-p
     height: 76px;
     overflow: visible;
     max-width: 1300px;
-    background-color: #0c5e9c;
+    background-color: #5a2873;
     font-family: myriad-pro, Arial, sans-serif;
     padding: 0;
     margin: 0 10px
