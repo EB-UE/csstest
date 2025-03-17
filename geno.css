@@ -5965,7 +5965,7 @@
     font-family: myriad-pro, Arial, sans-serif;
     font-weight: 700;
     line-height: 1.2;
-    color: #002d67
+    color: #5a2873
 }
 
 .econ-container .h1,
@@ -21390,7 +21390,7 @@ fieldset:disabled .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-p
 
 .econ-container .econ-config-email-module .note-modal-title {
     font-size: 1.25rem;
-    color: #002d67;
+    color: #5a2873;
     order: 1
 }
 
@@ -21555,7 +21555,7 @@ fieldset:disabled .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-p
 .econ-container .econ-ep-conditions .c-visual-title {
     text-align: center;
     font-size: .875rem;
-    color: #002d67
+    color: #5a2873
 }
 
 @media(min-width:992px) {
@@ -21577,7 +21577,7 @@ fieldset:disabled .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-p
     text-align: center;
     font-weight: 700;
     font-size: 1.25rem;
-    color: #002d67
+    color: #5a2873
 }
 
 @media(min-width:992px) {
@@ -21616,19 +21616,19 @@ fieldset:disabled .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-p
 
 .econ-container .econ-ep-conditions .c-cond-title {
     font-size: .875rem;
-    color: #002d67
+    color: #5a2873
 }
 
 .econ-container .econ-ep-conditions .c-cond-value {
     font-weight: 700;
     font-size: 1.25rem;
-    color: #002d67;
+    color: #5a2873;
     margin: .33333rem 0
 }
 
 .econ-container .econ-ep-conditions .c-cond-subtext {
     font-size: .875rem;
-    color: #002d67
+    color: #5a2873
 }
 
 .econ-container .econ-ep-conditions .offer-calc-cta {
@@ -22600,7 +22600,7 @@ fieldset:disabled .econ-container .econ-wysiwyg-editor .note-modal-footer .btn-p
 
 .econ-container .econ-wysiwyg-editor .note-modal-title {
     font-size: 1.25rem;
-    color: #002d67;
+    color: #5a2873;
     order: 1
 }
 
